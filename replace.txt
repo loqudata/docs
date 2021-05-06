@@ -1,0 +1,3 @@
+Bold to 2nd level Headings
+Replace: \*\*(.*)\*\*
+With: ## $1
