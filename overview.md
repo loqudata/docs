@@ -23,7 +23,7 @@ The platform will allow users to:
 
 ## Current Status
 
-The first version of the platform is available at [loqudata.org](https://loqudata.org/), with over 700 million data series from 81 providers. We have not yet integrated the data set of over 250 data portals. We’ve implemented the basics for the first three key features above: search, exploration, and visualization, but want to do a lot more. Some of our short-term goals are outlined in the **What's up next?** section of the [FAQ](../faq.md).
+The first version of the platform is available at [loqudata.org](https://loqudata.org/), with over 700 million data series from 81 providers. We have not yet integrated the data set of over 250 data portals. We’ve implemented the basics for the first three key features above: search, exploration, and visualization, but want to do a lot more. Some of our short-term goals are outlined in the **What's up next?** section of the [FAQ](./faq.md).
 
 ## Vision
 
